@@ -81,7 +81,7 @@ This command will create a folder named dist/ containing the static files (.html
 
 ## 👤 Author
 
-**Created by:** [Giovanni Russo]
+**Created by:** Giovanni Russo
 **Course:** Informatica per le Aziende Digitali (L-31)
 **Project Work:** Project Work - Development of a JavaScript Dashboard for Primary Sector Performance Analysis.
 
